@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NutriWise</string>,
+    <string name="intro">
+    NutriWise\'s main aim is to make people aware of the nutritional values of food they are buying in the market:\n\n
+    <ul>
+        <li>We provide a grade to the food based on important nutritional values.\n\n</li>
+        <li>One can learn how the grading is calculated by tapping the "Grade Algo" button below.</li>
+    </ul>
+</string>
+
+    <string name="intro2">Be cautious this nutrition calculation may not always provide true nature of the product</string>
+</resources>
